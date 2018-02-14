@@ -1,0 +1,18 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "All the boilerplate for a web app built with Vue and Node.",
+  "main": "src/js/server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evan King",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.28.9",
+    "express": "^4.16.2",
+    "vue": "^2.5.13",
+    "vue-loader": "^14.1.1",
+    "vue-template-compiler": "^2.5.13"
+  }
+}
